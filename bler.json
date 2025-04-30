@@ -1,1 +1,10 @@
+{
+  "test": true,
+  "message": "blertest.",
+  "version": "1.0",
+  "data": {
+    "items": [],
+    "info": null
+  }
+}
 
